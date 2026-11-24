@@ -1,0 +1,18 @@
+{
+  "kind": "customsearch#search",
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Промокод Gumi7 - 10% отстъпка | Блог за коли",
+      "link": "https://blog.example.bg/gumi7-promokod",
+      "snippet": "Gumi7.com промокод: GUMI7WIN10 дава 10% отстъпка, валиден до 15.12.2026.",
+      "pagemap": {"metatags": [{"article:published_time": "2026-11-10T08:00:00+02:00"}]}
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gumi7 - зимни гуми",
+      "link": "https://gumi7.com/bg/",
+      "snippet": "Онлайн магазин за гуми."
+    }
+  ]
+}
